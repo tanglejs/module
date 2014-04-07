@@ -1,0 +1,9 @@
+{
+  "plugin": {
+    "name": "module",
+    "version": "0.0.0",
+    "description": "Tasks for working with tangle modules",
+    "subcommand": "module",
+    "type": "scope"
+  }
+}

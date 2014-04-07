@@ -1,0 +1,8 @@
+{
+  "name": "<%= settings['module:name'] %>",
+  "type": "module",
+  "initializers": {},
+  "regions": {},
+  "routes": {},
+  "modules": {}
+}
