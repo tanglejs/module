@@ -6,4 +6,4 @@
 [![Dependency Status](https://david-dm.org/tanglejs/module.png)](https://david-dm.org/tanglejs/module)
 [![devDependency Status](https://david-dm.org/tanglejs/module/dev-status.png)](https://david-dm.org/tanglejs/module#info=devDependencies)
 
-[![NPM](https://nodei.co/npm/module.png?downloads=true)](https://nodei.co/npm/module/)
+[![NPM](https://nodei.co/npm/tangle-module.png?downloads=true)](https://nodei.co/npm/tangle-module/)
